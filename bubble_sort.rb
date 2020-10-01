@@ -3,14 +3,14 @@ def bubble_sort(array)
   loop do
     swapped = false
 
-    (n-1).times do |i|
-      if array[i] > array[i + 1]
+    (n - 1).times do |i|
+      if array[i] > array[i + 1] next
         array[i], array[i + 1] = array[i + 1], array [i]
         swapped = true
 
       end
     end
-    break if not swapped
+    break unless swapped
   end
   array
 end
