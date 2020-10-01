@@ -28,6 +28,8 @@ Here we have, Ruby implementation of bubble sort where we have incorporated the 
 
 5. Enjoy!
 
+6. Hint: Our project uses Gemfile to install gems
+
 
 
 
