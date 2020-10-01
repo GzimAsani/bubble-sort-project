@@ -3,6 +3,7 @@
 > This is the first Project in Ruby Course.
 Here we have, Ruby implementation of bubble sort where we have incorporated the use of yield.
 
+![screenshot](./screenshot/screen.png)
 
 ## Built With
 
